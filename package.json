@@ -1,0 +1,22 @@
+{
+  "name": "cosmic-mist-validator",
+  "version": "1.0.2",
+  "description": "A simple validation library for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eligioalley/cosmic-mist-validator"
+  },
+  "keywords": [
+    "validation",
+    "validator",
+    "javascript"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "validator": "^13.6.0"
+  }
+}
